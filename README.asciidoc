@@ -1,0 +1,17 @@
+Get-Toner
+---------
+
+Get-Toner is a simple powershell script to keep an eye on toner levels.
+
+Features
+~~~~~~~~
+
+* Automattically get printers from a print server
+
+Roadmap
+~~~~~~~
+
+- Pass list of printers ip address
+- Pass list of printer names
+- Error handling
+- Examples of how to use for automated monitering
